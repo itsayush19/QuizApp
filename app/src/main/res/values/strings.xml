@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QuizApp1</string>
+
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">Incorrect!</string>
+    <string name="first_score_text">0/10</string>
+    <string name="correct_toast_message">Good!</string>
+    <string name="incorrect_toast_message">Not Good!</string>
+
+    <string name="q1">India won 2011 cricket world cup</string>
+    <string name="q2">Mark Zuckerberg invented whatsapp</string>
+    <string name="q3">Elephants are the only mammals that can\'t jump</string>
+    <string name="q4">India became independent in 1947</string>
+    <string name="q5">The finger is the fastest healing part of body</string>
+    <string name="q6">A pigeon\'s feathers are heavier than its bones.</string>
+    <string name="q7">Sachin is the first cricketer to score 100 international hundrends</string>
+    <string name="q8">China is the second most populated country in the world</string>
+    <string name="q9">A human brain weighs about 3 pounds</string>
+    <string name="q10">Cats can hear ultrasounds</string>
+</resources>
